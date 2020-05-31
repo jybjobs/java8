@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>lambda-test</groupId>
-  <artifactId>com.jyb.lambda</artifactId>
+  <groupId>com.jyb.lambda</groupId>
+  <artifactId>lamabda-demo</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>com.jyb.lambda Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <build>
-    <finalName>com.jyb.lambda</finalName>
+    <finalName>lamabda-demo</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
